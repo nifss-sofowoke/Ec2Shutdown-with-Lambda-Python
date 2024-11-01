@@ -1,6 +1,6 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
+# *.py[cod] Ignores all python files and allow python files to be committed
 *$py.class
 
 # C extensions
